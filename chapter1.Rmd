@@ -9,5 +9,7 @@
 date()
 
 ```
-The text continues here.
+Hello! I am looking forward to learning more about Open Data Science. I learned about the course by fellow students and I think it will be very useful for my PhD project.  I have some basic programming experience (XSLT), but R seems a *little* intimidating! I hope to get the hang of it soon!
+
+My GitHub repository is https://github.com/polinayordanova/IODS-project. 
 
