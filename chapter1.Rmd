@@ -1,7 +1,9 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+Hello! I am looking forward to learning more about Open Data Science. I learned about the course by fellow students and I think it will be very useful for my PhD project.  I have some basic programming experience (XSLT), but R seems a *little* intimidating! I hope to get the hang of it soon!
+
+My GitHub repository is https://github.com/polinayordanova/IODS-project. 
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -9,7 +11,5 @@
 date()
 
 ```
-Hello! I am looking forward to learning more about Open Data Science. I learned about the course by fellow students and I think it will be very useful for my PhD project.  I have some basic programming experience (XSLT), but R seems a *little* intimidating! I hope to get the hang of it soon!
 
-My GitHub repository is https://github.com/polinayordanova/IODS-project. 
 
